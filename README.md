@@ -8,3 +8,8 @@ Hi, I'm Sasha - a developer. I really love programming, this is my favorite past
 | | |
 | :--- | :--- |
 | ✅ [Mail](mailto:sasha_kyznetsov2003@mail.ru) | ✅ [VK](https://vk.com/id224697209) |
+
+## 💻 Examples of my code
+| | |
+| :--- | :--- |
+| ✅ [C++](mailto:sasha_kyznetsov2003@mail.ru) | ✅ [1С](https://vk.com/id224697209) |
