@@ -12,4 +12,4 @@ Hi, I'm Sasha - a developer. I really love programming, this is my favorite past
 ## 💻 Examples of my code
 | | |
 | :--- | :--- |
-| ✅ [C++](mailto:sasha_kyznetsov2003@mail.ru) | ✅ [1С](https://vk.com/id224697209) |
+| ✅ [C++](https://github.com/suuuumcaa/C-plus-plus) | ✅ [1С](https://github.com/suuuumcaa/1C) |
