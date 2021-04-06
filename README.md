@@ -7,4 +7,4 @@ Hi, I'm Sasha - a developer. I really love programming, this is my favorite past
 ## 📌 Pinned
 | | |
 | :--- | :--- |
-| ✅ [mail](sasha_kyznetsov2003@mail.ru) | ✅ [VK](https://vk.com/id224697209) |
+| ✅ [mail](mailto:sasha_kyznetsov2003@mail.ru) | ✅ [VK](https://vk.com/id224697209) |
